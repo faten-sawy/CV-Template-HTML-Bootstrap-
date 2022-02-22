@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.fa-facebook,
+.fa-whatsapp,
+.fa-google-plus,
+.fa-twitter,
+.fa-github {
+  padding: 10px;
+  font-size: 25px;
+  color: #000;
+}
+
+.fa-facebook:hover {
+  color: blue;
+}
+
+.fa-whatsapp:hover {
+  color: rgb(3, 241, 15);
+}
+.fa-google-plus:hover {
+  color: rgb(241, 78, 3);
+}
+.fa-twitter:hover {
+  color: #00bfff;
+}
+
+.fa-github:hover {
+  color: orange;
+}
+.card-img-top {
+  width: 100%;
+  height: 100%;
+}
+.card-img-overlay {
+  position: relative;
+  top: 4vw;
+}
+a {
+  text-decoration-color: none;
+}
